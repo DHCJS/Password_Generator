@@ -14,8 +14,7 @@ You can try the project here on [Netlify]()
 
 ## Authors
 
- <img align="left" alt="githubicon" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- 
+ ![GitHub](https://user-images.githubusercontent.com/80773310/199714215-60064183-68b4-4367-96a0-1ac5bd1d4bfb.png)
  [Tato](https://github.com/DHCJS)
 
  <a href="https://medium.com/@hartatociptajaya" target="blank">
