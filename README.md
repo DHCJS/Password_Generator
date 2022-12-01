@@ -2,7 +2,7 @@
 # Password Generator
 
 The most challenging project, period. I have a different approach from what I've learned, going through several tutorials and trying to code from scratch.
-You can try the project here on [Netlify]()
+You can try the project here on [Netlify](https://deft-fudge-2a9736.netlify.app/)
 ## Lessons Learned
 
 - [x]  substring()
